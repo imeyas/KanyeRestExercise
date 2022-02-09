@@ -1,0 +1,17 @@
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\KanyeWestExercise\KanyeWest\KanyeWest\bin\Debug\net6.0\KanyeRest.exe
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\KanyeWestExercise\KanyeWest\KanyeWest\bin\Debug\net6.0\KanyeRest.deps.json
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\KanyeWestExercise\KanyeWest\KanyeWest\bin\Debug\net6.0\KanyeRest.runtimeconfig.json
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\KanyeWestExercise\KanyeWest\KanyeWest\bin\Debug\net6.0\KanyeRest.dll
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\KanyeWestExercise\KanyeWest\KanyeWest\bin\Debug\net6.0\ref\KanyeRest.dll
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\KanyeWestExercise\KanyeWest\KanyeWest\bin\Debug\net6.0\KanyeRest.pdb
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\KanyeWestExercise\KanyeWest\KanyeWest\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\KanyeWestExercise\KanyeWest\KanyeWest\obj\Debug\net6.0\KanyeRest.csproj.AssemblyReference.cache
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\KanyeWestExercise\KanyeWest\KanyeWest\obj\Debug\net6.0\KanyeRest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\KanyeWestExercise\KanyeWest\KanyeWest\obj\Debug\net6.0\KanyeRest.AssemblyInfoInputs.cache
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\KanyeWestExercise\KanyeWest\KanyeWest\obj\Debug\net6.0\KanyeRest.AssemblyInfo.cs
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\KanyeWestExercise\KanyeWest\KanyeWest\obj\Debug\net6.0\KanyeRest.csproj.CoreCompileInputs.cache
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\KanyeWestExercise\KanyeWest\KanyeWest\obj\Debug\net6.0\KanyeRest.csproj.CopyComplete
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\KanyeWestExercise\KanyeWest\KanyeWest\obj\Debug\net6.0\KanyeRest.dll
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\KanyeWestExercise\KanyeWest\KanyeWest\obj\Debug\net6.0\ref\KanyeRest.dll
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\KanyeWestExercise\KanyeWest\KanyeWest\obj\Debug\net6.0\KanyeRest.pdb
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\KanyeWestExercise\KanyeWest\KanyeWest\obj\Debug\net6.0\KanyeRest.genruntimeconfig.cache
